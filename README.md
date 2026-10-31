@@ -131,8 +131,7 @@ AI-powered hardware automation designed to reduce human error and cross-contamin
 - Docker deployment
 
 `Node.js` `Strapi` `PostgreSQL` `Docker`
-
-<a href="https://www.kukuclothin.com">↗ Live Website</a>
+Development contribution completed. The client has since transitioned to a different development team, and the original implementation is no longer in use.
 
 </td>
 <td width="50%">
