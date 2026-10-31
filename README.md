@@ -223,7 +223,7 @@ I'm interested in collaborating on projects involving AI, Python, backend engine
 
 <br/><br/>
 
-**BUILDING TODAY. SECURING TOMORROW.**
+**BUILDING TODAY. SECURED TOMORROW.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:27204a,50:17152d,100:09090f&height=100&section=footer" width="100%" />
 
